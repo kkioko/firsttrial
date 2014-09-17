@@ -9,7 +9,7 @@ namespace Practical_1
     {
         static void Main(string[] args)
         {
-            for (int x = 1; x <= 5; x++)
+            for (int x = 1; x <= 6; x++)
             {
                 DoAnAirport();
             }
